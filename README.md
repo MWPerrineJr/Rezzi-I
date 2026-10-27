@@ -1,4 +1,4 @@
-# Rezz-i
+# Rezz-I
 
 **Your reputation shouldn't clock out with your last shift.**
 
